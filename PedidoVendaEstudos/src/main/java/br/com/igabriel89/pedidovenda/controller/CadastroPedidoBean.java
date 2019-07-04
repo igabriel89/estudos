@@ -29,6 +29,4 @@ public class CadastroPedidoBean {
 		return itens;
 	}
 	
-
-
 }
